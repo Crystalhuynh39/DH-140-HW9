@@ -2,6 +2,8 @@
 
 This notebook contains Assignment 5: Web Scraping from DH 140 Coding with Humanities with Professor Winjum.
 
+To get an interactive version of this, click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Crystalhuynh39/DH-140-HW9/HEAD)
+
 ## Step 1
 #### Use requests and BeautifulSoup to make a list of all the CORGIS datasets.
 
